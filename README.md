@@ -1,3 +1,3 @@
-# BDD_cucumber
+# BDD cucumber
 
 Login test scenario
